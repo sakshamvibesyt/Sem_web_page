@@ -50,7 +50,7 @@ if (qrContainer && /^https?:$/.test(window.location.protocol) && !window.locatio
       const objectUrl = URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = objectUrl;
-      a.download = "sem-website-qr.png";
+      a.download = "https://i.ibb.co/cXpbKNv4/c9dbdf7c-9150-4079-adc5-87134d712c2b.jpg";
       a.click();
       URL.revokeObjectURL(objectUrl);
     } catch {

@@ -4,8 +4,10 @@
   2. Save and push the updated file to GitHub.
 */
 const SITE_CONFIG = {
-  musicBot: "https://t.me/",   // TODO: replace with your music bot link
-  managerBot: "https://t.me/"  // TODO: replace with Zyra manager bot link
+  『🎧』𝐒ᴇᴍ 𝐌ᴜsɪᴄ 𓂃♫: "https://t.me/Semmusic_bot",// TODO: replace with your music bot link
+  ⚡『 Sᴇᴍ Bᴇᴀᴛs 』🎶: "https://t.me/sembeatsbot",
+  ⓢ 𓂃؛ٍّ𝅯𝅯Zyra ؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒ: "https://t.me/Sakshamabout_bot"  // TODO: replace with Zyra manager bot link
+⟦ ꜱᴇᴍ ᴜꜱᴇʀʙᴏᴛ ⟧𓂀؛ًٍَُّْ۪ؒ࣪𓂃: "https://t.me/Sem_userbot",
 };
 
 document.querySelectorAll("[data-link]").forEach((link) => {
